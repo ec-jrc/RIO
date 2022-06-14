@@ -1,0 +1,13 @@
+C:\Users\gallida\source\publish\RIO\RIO.Communication\obj\Debug\netstandard2.0\RIO.Communication.csproj.AssemblyReference.cache
+C:\Users\gallida\source\publish\RIO\RIO.Communication\obj\Debug\netstandard2.0\RIO.Communication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gallida\source\publish\RIO\RIO.Communication\obj\Debug\netstandard2.0\RIO.Communication.AssemblyInfoInputs.cache
+C:\Users\gallida\source\publish\RIO\RIO.Communication\obj\Debug\netstandard2.0\RIO.Communication.AssemblyInfo.cs
+C:\Users\gallida\source\publish\RIO\RIO.Communication\obj\Debug\netstandard2.0\RIO.Communication.csproj.CoreCompileInputs.cache
+C:\Users\gallida\source\publish\RIO\RIO.Communication\bin\Debug\netstandard2.0\RIO.Communication.deps.json
+C:\Users\gallida\source\publish\RIO\RIO.Communication\bin\Debug\netstandard2.0\RIO.Communication.dll
+C:\Users\gallida\source\publish\RIO\RIO.Communication\bin\Debug\netstandard2.0\RIO.Communication.pdb
+C:\Users\gallida\source\publish\RIO\RIO.Communication\bin\Debug\netstandard2.0\RIO.dll
+C:\Users\gallida\source\publish\RIO\RIO.Communication\bin\Debug\netstandard2.0\RIO.pdb
+C:\Users\gallida\source\publish\RIO\RIO.Communication\obj\Debug\netstandard2.0\RIO.Communication.csproj.CopyComplete
+C:\Users\gallida\source\publish\RIO\RIO.Communication\obj\Debug\netstandard2.0\RIO.Communication.dll
+C:\Users\gallida\source\publish\RIO\RIO.Communication\obj\Debug\netstandard2.0\RIO.Communication.pdb

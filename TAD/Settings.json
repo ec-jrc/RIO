@@ -1,0 +1,61 @@
+{
+  "Id": "RIO-Uninitialized_device",
+  "Features": [
+    {
+      "Enabled": false,
+      "Id": "default MailManager",
+      "Type": "MailManager",
+      "Properties": {
+        "Service": "",
+        "Username": "",
+        "Password": ""
+      },
+      "Version": "1.0.0"
+    },
+    {
+      "Enabled": false,
+      "Id": "default SlackManager",
+      "Type": "SlackManager",
+      "Properties": {},
+      "Version": "1.0.0"
+    },
+    {
+      "Enabled": false,
+      "Id": "default SmsManager",
+      "Type": "SmsManager",
+      "Properties": {
+        "Service": null,
+        "Username": "",
+        "Password": ""
+      },
+      "Version": "1.0.0"
+    },
+    {
+      "Enabled": false,
+      "Id": "default TeamsManager",
+      "Type": "TeamsManager",
+      "Properties": {
+        "Channel": null
+      },
+      "Version": "1.0.0"
+    },
+    {
+      "Enabled": false,
+      "Id": "default Simulation",
+      "Type": "Simulation",
+      "Properties": {
+        "Name": "Measure",
+        "Frequency": "2",
+        "Average": "0",
+        "Variance": "0"
+      },
+      "Version": "1.0.0"
+    }
+  ],
+  "Queue": "",
+  "QueueCredentials": "",
+  "WebAccess": "http://webcritech.jrc.ec.europa.eu/TAD_server/api/Data/PostAsync",
+  "LocalManagement": true,
+  "EnableRemoteDebug": false,
+  "EnableSlack": false
+}
